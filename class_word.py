@@ -19,9 +19,3 @@ class Word:
     # Returns random word from list
     def get(self) -> str:
         return self._word
-
-
-# if __name__ == '__main__':
-#     w = Word()
-#     print(list(w))
-#     print(w.get())

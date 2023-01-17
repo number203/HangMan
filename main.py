@@ -9,5 +9,5 @@ if __name__ == '__main__':
 
         game.run()
 
-        if input('Сыграем еще раз? (Y/N): ').upper() != 'Y':
+        if input('Again? (Y/N): ').upper() != 'Y':
             break
